@@ -1,8 +1,6 @@
 
 G
 backend/backend/urls.py,f\a\fac68c6ab2f941125a52ad921d4508a9eee57da8
-D
-backend/api/views.py,2\e\2e7a127a413b61445f6087f496db2a5513dea925
 4
 .env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
 S
@@ -19,8 +17,6 @@ B
 gateway/nginx.conf,c\6\c6122a2b9eb28d7d27441d9fdf0526d194382591
 M
 docker-compose.production.yml,3\7\370a0e85078f22f4341e7943368e2fc1549b8197
-K
-backend/backend/settings.py,b\b\bb516eca5c29d1a0ba1053e79f291b4bef784971
 Å
 Q.idea/sonarlint/securityhotspotstore/3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a,c\d\cdb41fff691175c26b6b290b03da638b954ee337
 w

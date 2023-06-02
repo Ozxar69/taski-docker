@@ -1,8 +1,6 @@
 
 G
 backend/backend/urls.py,f\a\fac68c6ab2f941125a52ad921d4508a9eee57da8
-D
-backend/api/views.py,2\e\2e7a127a413b61445f6087f496db2a5513dea925
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
@@ -15,8 +13,6 @@ B
 gateway/Dockerfile,5\a\5a39717901490093530d8f039ae4bb7d57680f50
 4
 .env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
-K
-backend/backend/settings.py,b\b\bb516eca5c29d1a0ba1053e79f291b4bef784971
 M
 docker-compose.production.yml,3\7\370a0e85078f22f4341e7943368e2fc1549b8197
 B
