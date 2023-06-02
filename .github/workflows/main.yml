@@ -140,10 +140,10 @@ jobs:
       - name: Executing remote ssh commands to deploy
         uses: appleboy/ssh-action@master
         with:
-          host: 158.160.1.74
-          username: yc-user
-          key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC3Xx9oQklwNyynGDu1FpABYRibUrQDP+inVHKagCoHmR5Yx8TXxAZen1Qv6KhIj0y+S+hx5lkXMezPsO0tY9C8qrBFUchEqoWWuzvPiR2yVcBN1P8AphYfKi9qgsNEPcsHgqBkR68lcvtkYOgdwdBR1/kjdGcxrCfPdk823oBaOcsV5xvFU6pwSmhiJ/s8w3GcUEV8Ths55j/ibIpN2qj9cRBKuVsoEVp7e5SMhLVw7AoTjMtQ/xQARn6RIc5YC17la+S1PCasdlyH88temwinP0cVe3JzxCeP+FBzmV+maj4d1nEWOqwDgxDwJ6LrLmKH5SjHa+VK4SIUCPSju8ciZQO9bRBunM5GTLkO/Tq14LK4UFNSZRlCDqpajluMfQ5BxzYzpIojuo2hD0MF61iSY5pntGPh7LuRVB6iO59MS3LGUFq37aSVEfNIuFb+zYsYogZbhBtQF29Cfrknnm+cNDlhbp/W41ZwnfgDDq3ZwumrPavJ8m2xUKJIKHHiaks= turonk2016@turonk2016-o
-          passphrase: 5WfwS3
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USER }}
+          key: ${{ secrets.SSH_KEY }}
+          passphrase: ${{ secrets.SSH_PASSPHRASE }}
           script: |
             cd taski
             sudo docker compose -f docker-compose.production.yml pull
