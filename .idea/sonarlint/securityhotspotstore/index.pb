@@ -15,16 +15,12 @@ B
 gateway/Dockerfile,5\a\5a39717901490093530d8f039ae4bb7d57680f50
 B
 gateway/nginx.conf,c\6\c6122a2b9eb28d7d27441d9fdf0526d194382591
-M
-docker-compose.production.yml,3\7\370a0e85078f22f4341e7943368e2fc1549b8197
 Å
 Q.idea/sonarlint/securityhotspotstore/3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a,c\d\cdb41fff691175c26b6b290b03da638b954ee337
 w
 G.idea/sonarlint/issuestore/7/4/7467689207bc56c9ef017581c0c04191bc16e11e,d\3\d37d7d7a7e3475f9e6a5304dfc321126716c5e99
 Å
 Q.idea/sonarlint/securityhotspotstore/3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a,4\e\4ead0a9bb92d8636c4ad5a0ef56838d8b7bd33d6
-w
-G.idea/sonarlint/issuestore/2/e/2e7a127a413b61445f6087f496db2a5513dea925,c\b\cb9b9061036e1e9683fcb44d993f1c3e9f8c0a0a
 Å
 Q.idea/sonarlint/securityhotspotstore/5/a/5a39717901490093530d8f039ae4bb7d57680f50,7\3\735243c2bd625a171680e54e0e340798c86e01d3
 w
@@ -43,9 +39,15 @@ w
 G.idea/sonarlint/issuestore/3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a,f\a\fa996fb25dd8afe6bf56a281bdff677f139b23bf
 w
 G.idea/sonarlint/issuestore/3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a,1\5\15ab6acc17bd4f2d048dc50beb0dfeb0086a0c18
-Å
-Q.idea/sonarlint/securityhotspotstore/2/e/2e7a127a413b61445f6087f496db2a5513dea925,0\7\07c5391471a8de3fc58bf79d959b1a3b21e1c4e2
 w
 G.idea/sonarlint/issuestore/f/a/fac68c6ab2f941125a52ad921d4508a9eee57da8,5\d\5dbdc3d7dda58b487f7bc5950855155f6267b01c
 Å
 Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
+9
+	setup.cfg,8\c\8c91c0296909b5ea3c496fde69e9dc44a6c6ae5f
+D
+backend/api/views.py,2\e\2e7a127a413b61445f6087f496db2a5513dea925
+K
+backend/backend/settings.py,b\b\bb516eca5c29d1a0ba1053e79f291b4bef784971
+D
+backend/api/tests.py,8\f\8fccf9d1b6a569ebb3a4ff192e3f35a38bd8cad8
