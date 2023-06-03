@@ -1,14 +1,10 @@
 
-G
-backend/backend/urls.py,f\a\fac68c6ab2f941125a52ad921d4508a9eee57da8
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 H
 backend/requirements.txt,7\4\7467689207bc56c9ef017581c0c04191bc16e11e
-B
-docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
 B
 gateway/Dockerfile,5\a\5a39717901490093530d8f039ae4bb7d57680f50
 4
@@ -45,9 +41,15 @@ G.idea/sonarlint/issuestore/f/a/fac68c6ab2f941125a52ad921d4508a9eee57da8,5\d\5d
 Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
 9
 	setup.cfg,8\c\8c91c0296909b5ea3c496fde69e9dc44a6c6ae5f
-D
-backend/api/views.py,2\e\2e7a127a413b61445f6087f496db2a5513dea925
 K
 backend/backend/settings.py,b\b\bb516eca5c29d1a0ba1053e79f291b4bef784971
 D
 backend/api/tests.py,8\f\8fccf9d1b6a569ebb3a4ff192e3f35a38bd8cad8
+D
+backend/api/views.py,2\e\2e7a127a413b61445f6087f496db2a5513dea925
+E
+backend/api/models.py,f\1\f15bdb8ef726b1f23d1ac062d69c7c6073ad9a24
+C
+backend/api/apps.py,0\b\0b38973ad484c4064fc34e6d1d539c99f7cc4e66
+G
+backend/backend/wsgi.py,3\9\39e53975a990f0dc7e13ea8b04313c23c2eb8589
